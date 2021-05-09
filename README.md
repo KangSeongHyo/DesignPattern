@@ -7,3 +7,4 @@
   - facade
   - mediator
   - memento
+  - state
