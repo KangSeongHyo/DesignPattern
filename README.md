@@ -10,3 +10,4 @@
   - state
 - 낭비 없애기
   - flyweight
+  - proxy
