@@ -11,3 +11,5 @@
 - 낭비 없애기
   - flyweight
   - proxy
+- 클래스로 표현하기
+  - command
